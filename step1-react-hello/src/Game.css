@@ -1,0 +1,7 @@
+.game-board, .game-info{
+  margin: 20px auto;
+  width: 130px;
+}
+.game-info{
+  text-align: center
+}
